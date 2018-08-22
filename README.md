@@ -8,14 +8,14 @@ It's _not_ designed to compare any installers that can be used on _top_ of cloud
 |Company|Name|Shortname|Link|Status
 | ------------- |:-------------:| -----|-----|-----|
 | Google | Google Kubernetes Engine | GKE | https://cloud.google.com/kubernetes-engine/ | GA |
-| Amazon | Amazon Elastic Container Service for Kubernetes| EKS| https://aws.amazon.com/eks/ | GA |
-| Microsoft | Azure Kubernetes Service|AKS | https://docs.microsoft.com/en-us/azure/aks/ | GA |
-| DigitalOcean | Kubernetes on DigitalOcean | https://www.digitalocean.com/products/kubernetes/ | Early Access |
-| Oracle | Oracle Container Services | https://cloud.oracle.com/containers | |
-| OVH | Kubernetes-as-a-Service | https://labs.ovh.com/kubernetes-k8s | Early Access |
-| Rackspace | Kubernetes-as-a-Service | https://www.rackspace.com/en-sg/managed-kubernetes ||
-| IBM | IBM Cloud Kubernetes Service | https://www.ibm.com/cloud/container-service ||
-| Alibaba | Container Services for Kubernetes | https://www.alibabacloud.com/product/kubernetes ||
-| VMWare | VMWare Kubernetes Engine | https://cloud.vmware.com/vmware-kubernetes-engine ||
-| Redhat | OpenShift | https://www.openshift.com/products | GA |
+| Amazon | Amazon Elastic Container Service for Kubernetes| EKS | https://aws.amazon.com/eks/ | GA |
+| Microsoft | Azure Kubernetes Service| AKS | https://docs.microsoft.com/en-us/azure/aks/ | GA |
+| DigitalOcean | Kubernetes on DigitalOcean || https://www.digitalocean.com/products/kubernetes/ | Early Access |
+| Oracle | Oracle Container Services || https://cloud.oracle.com/containers | |
+| OVH | Kubernetes-as-a-Service || https://labs.ovh.com/kubernetes-k8s | Early Access |
+| Rackspace | Kubernetes-as-a-Service || https://www.rackspace.com/en-sg/managed-kubernetes ||
+| IBM | IBM Cloud Kubernetes Service || https://www.ibm.com/cloud/container-service ||
+| Alibaba | Container Services for Kubernetes || https://www.alibabacloud.com/product/kubernetes ||
+| VMWare | VMWare Kubernetes Engine || https://cloud.vmware.com/vmware-kubernetes-engine ||
+| Redhat | OpenShift || https://www.openshift.com/products | GA |
 
