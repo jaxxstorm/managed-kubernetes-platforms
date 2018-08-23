@@ -18,4 +18,5 @@ It's _not_ designed to compare any installers that can be used on _top_ of cloud
 | Alibaba | Container Services for Kubernetes || https://www.alibabacloud.com/product/kubernetes ||
 | VMWare | VMWare Kubernetes Engine || https://cloud.vmware.com/vmware-kubernetes-engine ||
 | Redhat | OpenShift || https://www.openshift.com/products | GA |
+| Scaleway| Kubernetes|| https://www.scaleway.com/kubernetes/ | Early Access |
 
